@@ -1,0 +1,27 @@
+{
+  "name": "calculator-math",
+  "version": "1.0.0",
+  "description": "--------------------------------------------------------------------------------",
+  "main": "Calculator.js",
+  "dependencies": {
+    "calculator": "^0.1.12",
+    "plotly": "^1.0.6",
+    "pokemon-stat-calculator": "^0.3.0",
+    "regression": "^2.0.1",
+    "shaman": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayusdipu/calculator-math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayusdipu/calculator-math/issues"
+  },
+  "homepage": "https://github.com/ayusdipu/calculator-math#readme"
+}
